@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "1034061734676",
+    "firebase_url": "https://derro-90769.firebaseio.com",
+    "project_id": "derro-90769",
+    "storage_bucket": "derro-90769.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034061734676:android:c52a0b57af09a668",
+        "android_client_info": {
+          "package_name": "com.personal.poryto.derro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034061734676-57g9q8sjcgqg6limtd0tl48tss6dpckl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_PwLbfL8VbjAorjjuNrdBCIAg7XSZEi8"
+        },
+        {
+          "current_key": "AIzaSyA_PwLbfL8VbjAorjjuNrdBCIAg7XSZEi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
